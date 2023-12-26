@@ -3,7 +3,7 @@ function scrollToAbout() {
 }
 function downloadCV() {
     // Replace 'lunzon-resume 2.pdf' with the correct file path or URL
-    var pdfFile = 'https://github.com/PrincessJeeve/webdev/blob/main/contents/lunzon-resume%202.pdf';
+    var pdfFile = 'contents/lunzon-resume 2.pdf';
     
     window.open(pdfFile, '_blank');
     }
